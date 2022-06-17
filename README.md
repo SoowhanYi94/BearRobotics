@@ -5,7 +5,7 @@ Please upload the code for this project to GitHub or anywhere, and post a link t
 
 1. Clone respository
 
-git clone https://github.com/SoowhanYi94/Bear-Robotics.git
+git clone https://github.com/SoowhanYi94/BearRobotics.git
 
 2. move to working directory
 
