@@ -9,7 +9,7 @@ git clone https://github.com/SoowhanYi94/BearRobotics.git
 
 2. move to working directory
 
-cd Bear-Robotics
+cd BearRobotics
 
 3. run tests
 
